@@ -1,2 +1,1 @@
-# Week-0
-EDA
+# Week-0 - Exploratory Data Analysis (EDA)
